@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\429191-29\\Desktop\\FactoryApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|c:\\users\\429191-29\\desktop\\factoryapp\\appliances\\\u0430pplication\u0441hange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|solutionrelative:appliances\\\u0430pplication\u0441hange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|C:\\Users\\429191-29\\Desktop\\FactoryApp\\appliances\\operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|solutionrelative:appliances\\operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|C:\\Users\\429191-29\\Desktop\\FactoryApp\\appliances\\updateoper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|solutionrelative:appliances\\updateoper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|C:\\Users\\429191-29\\Desktop\\FactoryApp\\appliances\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|solutionrelative:appliances\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|C:\\Users\\429191-29\\Desktop\\FactoryApp\\appliances\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|solutionrelative:appliances\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|C:\\Users\\429191-29\\Desktop\\FactoryApp\\appliances\\addoper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|solutionrelative:appliances\\addoper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|C:\\Users\\429191-29\\Desktop\\FactoryApp\\appliances\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|solutionrelative:appliances\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|C:\\Users\\429191-29\\Desktop\\FactoryApp\\appliances\\\u0430pplication\u0441hange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|solutionrelative:appliances\\\u0430pplication\u0441hange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|C:\\Users\\429191-29\\Desktop\\FactoryApp\\appliances\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|solutionrelative:appliances\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|C:\\Users\\429191-29\\Desktop\\FactoryApp\\appliances\\authorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|solutionrelative:appliances\\authorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u0410pplication\u0421hange.cs",
+              "DocumentMoniker": "C:\\Users\\429191-29\\Desktop\\FactoryApp\\Appliances\\\u0410pplication\u0421hange.cs",
+              "RelativeDocumentMoniker": "Appliances\\\u0410pplication\u0421hange.cs",
+              "ToolTip": "C:\\Users\\429191-29\\Desktop\\FactoryApp\\Appliances\\\u0410pplication\u0421hange.cs",
+              "RelativeToolTip": "Appliances\\\u0410pplication\u0421hange.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T10:44:34.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Operator.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\429191-29\\Desktop\\FactoryApp\\Appliances\\Operator.cs",
+              "RelativeDocumentMoniker": "Appliances\\Operator.cs",
+              "ToolTip": "C:\\Users\\429191-29\\Desktop\\FactoryApp\\Appliances\\Operator.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Appliances\\Operator.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T09:40:15.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateOper.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\429191-29\\Desktop\\FactoryApp\\Appliances\\UpdateOper.cs",
+              "RelativeDocumentMoniker": "Appliances\\UpdateOper.cs",
+              "ToolTip": "C:\\Users\\429191-29\\Desktop\\FactoryApp\\Appliances\\UpdateOper.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Appliances\\UpdateOper.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T09:34:34.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\429191-29\\Desktop\\FactoryApp\\Appliances\\Order.cs",
+              "RelativeDocumentMoniker": "Appliances\\Order.cs",
+              "ToolTip": "C:\\Users\\429191-29\\Desktop\\FactoryApp\\Appliances\\Order.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Appliances\\Order.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T09:26:19.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Master.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\429191-29\\Desktop\\FactoryApp\\Appliances\\Master.cs",
+              "RelativeDocumentMoniker": "Appliances\\Master.cs",
+              "ToolTip": "C:\\Users\\429191-29\\Desktop\\FactoryApp\\Appliances\\Master.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Appliances\\Master.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T09:04:40.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddOper.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\429191-29\\Desktop\\FactoryApp\\Appliances\\AddOper.cs",
+              "RelativeDocumentMoniker": "Appliances\\AddOper.cs",
+              "ToolTip": "C:\\Users\\429191-29\\Desktop\\FactoryApp\\Appliances\\AddOper.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Appliances\\AddOper.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T08:52:39.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Manager.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\429191-29\\Desktop\\FactoryApp\\Appliances\\Manager.cs",
+              "RelativeDocumentMoniker": "Appliances\\Manager.cs",
+              "ToolTip": "C:\\Users\\429191-29\\Desktop\\FactoryApp\\Appliances\\Manager.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Appliances\\Manager.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T08:42:37.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "\u0410pplication\u0421hange.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\429191-29\\Desktop\\FactoryApp\\Appliances\\\u0410pplication\u0421hange.cs",
+              "RelativeDocumentMoniker": "Appliances\\\u0410pplication\u0421hange.cs",
+              "ToolTip": "C:\\Users\\429191-29\\Desktop\\FactoryApp\\Appliances\\\u0410pplication\u0421hange.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Appliances\\\u0410pplication\u0421hange.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T08:06:40.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\429191-29\\Desktop\\FactoryApp\\Appliances\\Customer.cs",
+              "RelativeDocumentMoniker": "Appliances\\Customer.cs",
+              "ToolTip": "C:\\Users\\429191-29\\Desktop\\FactoryApp\\Appliances\\Customer.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Appliances\\Customer.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T07:45:06.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Authorization.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\429191-29\\Desktop\\FactoryApp\\Appliances\\Authorization.cs",
+              "RelativeDocumentMoniker": "Appliances\\Authorization.cs",
+              "ToolTip": "C:\\Users\\429191-29\\Desktop\\FactoryApp\\Appliances\\Authorization.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Appliances\\Authorization.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T07:39:03.231Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

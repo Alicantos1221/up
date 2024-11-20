@@ -1,0 +1,376 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andrey\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u041A\u0423\u0420\u0421\\FactoryApp\\Appliances\\Appliances\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|c:\\users\\andrey\\desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u043A\u0443\u0440\u0441\\factoryapp\\appliances\\appliances\\appliances\\\u0430pplicationadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|solutionrelative:appliances\\\u0430pplicationadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|c:\\users\\andrey\\desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u043A\u0443\u0440\u0441\\factoryapp\\appliances\\appliances\\appliances\\\u0430pplicationadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|solutionrelative:appliances\\\u0430pplicationadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|c:\\users\\andrey\\desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u043A\u0443\u0440\u0441\\factoryapp\\appliances\\appliances\\appliances\\updateoper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|solutionrelative:appliances\\updateoper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|c:\\users\\andrey\\desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u043A\u0443\u0440\u0441\\factoryapp\\appliances\\appliances\\appliances\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|solutionrelative:appliances\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|c:\\users\\andrey\\desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u043A\u0443\u0440\u0441\\factoryapp\\appliances\\appliances\\appliances\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|solutionrelative:appliances\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|c:\\users\\andrey\\desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u043A\u0443\u0440\u0441\\factoryapp\\appliances\\appliances\\appliances\\authorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|solutionrelative:appliances\\authorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|c:\\users\\andrey\\desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u043A\u0443\u0440\u0441\\factoryapp\\appliances\\appliances\\appliances\\authorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|solutionrelative:appliances\\authorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|c:\\users\\andrey\\desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u043A\u0443\u0440\u0441\\factoryapp\\appliances\\appliances\\appliances\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|solutionrelative:appliances\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|c:\\users\\andrey\\desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u043A\u0443\u0440\u0441\\factoryapp\\appliances\\appliances\\appliances\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|solutionrelative:appliances\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|c:\\users\\andrey\\desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u043A\u0443\u0440\u0441\\factoryapp\\appliances\\appliances\\appliances\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|solutionrelative:appliances\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|c:\\users\\andrey\\desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u043A\u0443\u0440\u0441\\factoryapp\\appliances\\appliances\\appliances\\addoper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|solutionrelative:appliances\\addoper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|c:\\users\\andrey\\desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u043A\u0443\u0440\u0441\\factoryapp\\appliances\\appliances\\appliances\\addoper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|solutionrelative:appliances\\addoper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|c:\\users\\andrey\\desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u043A\u0443\u0440\u0441\\factoryapp\\appliances\\appliances\\appliances\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|solutionrelative:appliances\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|c:\\users\\andrey\\desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u043A\u0443\u0440\u0441\\factoryapp\\appliances\\appliances\\appliances\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|solutionrelative:appliances\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|c:\\users\\andrey\\desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u043A\u0443\u0440\u0441\\factoryapp\\appliances\\appliances\\appliances\\operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|solutionrelative:appliances\\operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|c:\\users\\andrey\\desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u043A\u0443\u0440\u0441\\factoryapp\\appliances\\appliances\\appliances\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|solutionrelative:appliances\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|c:\\users\\andrey\\desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u043A\u0443\u0440\u0441\\factoryapp\\appliances\\appliances\\appliances\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|solutionrelative:appliances\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|c:\\users\\andrey\\desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u043A\u0443\u0440\u0441\\factoryapp\\appliances\\appliances\\appliances\\operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|solutionrelative:appliances\\operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|c:\\users\\andrey\\desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u043A\u0443\u0440\u0441\\factoryapp\\appliances\\appliances\\appliances\\operator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|solutionrelative:appliances\\operator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|c:\\users\\andrey\\desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u043A\u0443\u0440\u0441\\factoryapp\\appliances\\appliances\\appliances\\manager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|solutionrelative:appliances\\manager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|c:\\users\\andrey\\desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u043A\u0443\u0440\u0441\\factoryapp\\appliances\\appliances\\appliances\\updateoper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E90C1A63-1A6E-4F3F-A9F3-FAAC2EA40B25}|Appliances\\Appliances.csproj|solutionrelative:appliances\\updateoper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Authorization.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u041A\u0423\u0420\u0421\\FactoryApp\\Appliances\\Appliances\\Appliances\\Authorization.cs",
+              "RelativeDocumentMoniker": "Appliances\\Authorization.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u041A\u0423\u0420\u0421\\FactoryApp\\Appliances\\Appliances\\Appliances\\Authorization.cs",
+              "RelativeToolTip": "Appliances\\Authorization.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwOIAAACQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:00:43.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Manager.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u041A\u0423\u0420\u0421\\FactoryApp\\Appliances\\Appliances\\Appliances\\Manager.cs",
+              "RelativeDocumentMoniker": "Appliances\\Manager.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u041A\u0423\u0420\u0421\\FactoryApp\\Appliances\\Appliances\\Appliances\\Manager.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Appliances\\Manager.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:50:12.952Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u041A\u0423\u0420\u0421\\FactoryApp\\Appliances\\Appliances\\Appliances\\Manager.cs",
+              "RelativeDocumentMoniker": "Appliances\\Manager.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u041A\u0423\u0420\u0421\\FactoryApp\\Appliances\\Appliances\\Appliances\\Manager.cs",
+              "RelativeToolTip": "Appliances\\Manager.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAuwLMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:51:47.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateOper.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u041A\u0423\u0420\u0421\\FactoryApp\\Appliances\\Appliances\\Appliances\\UpdateOper.cs",
+              "RelativeDocumentMoniker": "Appliances\\UpdateOper.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u041A\u0423\u0420\u0421\\FactoryApp\\Appliances\\Appliances\\Appliances\\UpdateOper.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Appliances\\UpdateOper.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:58:36.396Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u0410pplicationAdd.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u041A\u0423\u0420\u0421\\FactoryApp\\Appliances\\Appliances\\Appliances\\\u0410pplicationAdd.cs",
+              "RelativeDocumentMoniker": "Appliances\\\u0410pplicationAdd.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u041A\u0423\u0420\u0421\\FactoryApp\\Appliances\\Appliances\\Appliances\\\u0410pplicationAdd.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Appliances\\\u0410pplicationAdd.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:56:50.011Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u0410pplicationAdd.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u041A\u0423\u0420\u0421\\FactoryApp\\Appliances\\Appliances\\Appliances\\\u0410pplicationAdd.cs",
+              "RelativeDocumentMoniker": "Appliances\\\u0410pplicationAdd.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u041A\u0423\u0420\u0421\\FactoryApp\\Appliances\\Appliances\\Appliances\\\u0410pplicationAdd.cs",
+              "RelativeToolTip": "Appliances\\\u0410pplicationAdd.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAmwCAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:58:57.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Authorization.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u041A\u0423\u0420\u0421\\FactoryApp\\Appliances\\Appliances\\Appliances\\Authorization.cs",
+              "RelativeDocumentMoniker": "Appliances\\Authorization.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u041A\u0423\u0420\u0421\\FactoryApp\\Appliances\\Appliances\\Appliances\\Authorization.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Appliances\\Authorization.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:00:10.083Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u041A\u0423\u0420\u0421\\FactoryApp\\Appliances\\Appliances\\Appliances\\Order.cs",
+              "RelativeDocumentMoniker": "Appliances\\Order.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u041A\u0423\u0420\u0421\\FactoryApp\\Appliances\\Appliances\\Appliances\\Order.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Appliances\\Order.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:58:27.084Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Master.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u041A\u0423\u0420\u0421\\FactoryApp\\Appliances\\Appliances\\Appliances\\Master.cs",
+              "RelativeDocumentMoniker": "Appliances\\Master.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u041A\u0423\u0420\u0421\\FactoryApp\\Appliances\\Appliances\\Appliances\\Master.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Appliances\\Master.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:00:37.163Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Master.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u041A\u0423\u0420\u0421\\FactoryApp\\Appliances\\Appliances\\Appliances\\Master.cs",
+              "RelativeDocumentMoniker": "Appliances\\Master.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u041A\u0423\u0420\u0421\\FactoryApp\\Appliances\\Appliances\\Appliances\\Master.cs",
+              "RelativeToolTip": "Appliances\\Master.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:57:34.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddOper.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u041A\u0423\u0420\u0421\\FactoryApp\\Appliances\\Appliances\\Appliances\\AddOper.cs",
+              "RelativeDocumentMoniker": "Appliances\\AddOper.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u041A\u0423\u0420\u0421\\FactoryApp\\Appliances\\Appliances\\Appliances\\AddOper.cs",
+              "RelativeToolTip": "Appliances\\AddOper.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:57:09.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddOper.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u041A\u0423\u0420\u0421\\FactoryApp\\Appliances\\Appliances\\Appliances\\AddOper.cs",
+              "RelativeDocumentMoniker": "Appliances\\AddOper.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u041A\u0423\u0420\u0421\\FactoryApp\\Appliances\\Appliances\\Appliances\\AddOper.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Appliances\\AddOper.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:56:48.044Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u041A\u0423\u0420\u0421\\FactoryApp\\Appliances\\Appliances\\Appliances\\App.config",
+              "RelativeDocumentMoniker": "Appliances\\App.config",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u041A\u0423\u0420\u0421\\FactoryApp\\Appliances\\Appliances\\Appliances\\App.config",
+              "RelativeToolTip": "Appliances\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-07T18:42:26.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u041A\u0423\u0420\u0421\\FactoryApp\\Appliances\\Appliances\\Appliances\\Order.cs",
+              "RelativeDocumentMoniker": "Appliances\\Order.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u041A\u0423\u0420\u0421\\FactoryApp\\Appliances\\Appliances\\Appliances\\Order.cs",
+              "RelativeToolTip": "Appliances\\Order.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAiwFMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:58:28.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u041A\u0423\u0420\u0421\\FactoryApp\\Appliances\\Appliances\\Appliances\\Customer.cs",
+              "RelativeDocumentMoniker": "Appliances\\Customer.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u041A\u0423\u0420\u0421\\FactoryApp\\Appliances\\Appliances\\Appliances\\Customer.cs",
+              "RelativeToolTip": "Appliances\\Customer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwC0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:56:54.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Customer.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u041A\u0423\u0420\u0421\\FactoryApp\\Appliances\\Appliances\\Appliances\\Customer.cs",
+              "RelativeDocumentMoniker": "Appliances\\Customer.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u041A\u0423\u0420\u0421\\FactoryApp\\Appliances\\Appliances\\Appliances\\Customer.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Appliances\\Customer.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:00:26.938Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Operator.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u041A\u0423\u0420\u0421\\FactoryApp\\Appliances\\Appliances\\Appliances\\Operator.cs",
+              "RelativeDocumentMoniker": "Appliances\\Operator.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u041A\u0423\u0420\u0421\\FactoryApp\\Appliances\\Appliances\\Appliances\\Operator.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Appliances\\Operator.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:00:46.634Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Operator.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u041A\u0423\u0420\u0421\\FactoryApp\\Appliances\\Appliances\\Appliances\\Operator.cs",
+              "RelativeDocumentMoniker": "Appliances\\Operator.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u041A\u0423\u0420\u0421\\FactoryApp\\Appliances\\Appliances\\Appliances\\Operator.cs",
+              "RelativeToolTip": "Appliances\\Operator.cs",
+              "ViewState": "AQIAAKMAAAAAAAAAAAAiwLEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:58:19.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Operator.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u041A\u0423\u0420\u0421\\FactoryApp\\Appliances\\Appliances\\Appliances\\Operator.Designer.cs",
+              "RelativeDocumentMoniker": "Appliances\\Operator.Designer.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u041A\u0423\u0420\u0421\\FactoryApp\\Appliances\\Appliances\\Appliances\\Operator.Designer.cs",
+              "RelativeToolTip": "Appliances\\Operator.Designer.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAwEECAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:56:08.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Manager.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u041A\u0423\u0420\u0421\\FactoryApp\\Appliances\\Appliances\\Appliances\\Manager.Designer.cs",
+              "RelativeDocumentMoniker": "Appliances\\Manager.Designer.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u041A\u0423\u0420\u0421\\FactoryApp\\Appliances\\Appliances\\Appliances\\Manager.Designer.cs",
+              "RelativeToolTip": "Appliances\\Manager.Designer.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAlwOUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:51:55.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UpdateOper.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u041A\u0423\u0420\u0421\\FactoryApp\\Appliances\\Appliances\\Appliances\\UpdateOper.cs",
+              "RelativeDocumentMoniker": "Appliances\\UpdateOper.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u041A\u0423\u0420\u0421\\FactoryApp\\Appliances\\Appliances\\Appliances\\UpdateOper.cs",
+              "RelativeToolTip": "Appliances\\UpdateOper.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:58:37.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

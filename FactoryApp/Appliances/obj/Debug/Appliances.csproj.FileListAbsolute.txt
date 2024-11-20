@@ -1,0 +1,170 @@
+E:\УП Практика\Appliances\Appliances\obj\Debug\Appliances.csproj.AssemblyReference.cache
+E:\УП Практика\Appliances\Appliances\obj\Debug\Appliances.Authorization.resources
+E:\УП Практика\Appliances\Appliances\obj\Debug\Appliances.Master.resources
+E:\УП Практика\Appliances\Appliances\obj\Debug\Appliances.Operator.resources
+E:\УП Практика\Appliances\Appliances\obj\Debug\Appliances.Properties.Resources.resources
+E:\УП Практика\Appliances\Appliances\obj\Debug\Appliances.АpplicationAdd.resources
+E:\УП Практика\Appliances\Appliances\obj\Debug\Appliances.АpplicationСhange.resources
+E:\УП Практика\Appliances\Appliances\obj\Debug\Appliances.csproj.GenerateResource.cache
+E:\УП Практика\Appliances\Appliances\obj\Debug\Appliances.csproj.CoreCompileInputs.cache
+E:\УП Практика\Appliances\Appliances\bin\Debug\Appliances.exe.config
+E:\УП Практика\Appliances\Appliances\bin\Debug\Appliances.exe
+E:\УП Практика\Appliances\Appliances\bin\Debug\Appliances.pdb
+E:\УП Практика\Appliances\Appliances\obj\Debug\Appliances.Customer.resources
+E:\УП Практика\Appliances\Appliances\obj\Debug\Appliances.exe
+E:\УП Практика\Appliances\Appliances\obj\Debug\Appliances.pdb
+E:\УП Практика\Appliances\Appliances\obj\Debug\Appliances.AddOper.resources
+E:\УП Практика\Appliances\Appliances\obj\Debug\Appliances.Order.resources
+D:\УП Практика\Appliances\Appliances\bin\Debug\Appliances.exe.config
+D:\УП Практика\Appliances\Appliances\bin\Debug\Appliances.exe
+D:\УП Практика\Appliances\Appliances\bin\Debug\Appliances.pdb
+D:\УП Практика\Appliances\Appliances\obj\Debug\Appliances.csproj.AssemblyReference.cache
+D:\УП Практика\Appliances\Appliances\obj\Debug\Appliances.AddOper.resources
+D:\УП Практика\Appliances\Appliances\obj\Debug\Appliances.Authorization.resources
+D:\УП Практика\Appliances\Appliances\obj\Debug\Appliances.Customer.resources
+D:\УП Практика\Appliances\Appliances\obj\Debug\Appliances.Master.resources
+D:\УП Практика\Appliances\Appliances\obj\Debug\Appliances.Operator.resources
+D:\УП Практика\Appliances\Appliances\obj\Debug\Appliances.Order.resources
+D:\УП Практика\Appliances\Appliances\obj\Debug\Appliances.Properties.Resources.resources
+D:\УП Практика\Appliances\Appliances\obj\Debug\Appliances.АpplicationAdd.resources
+D:\УП Практика\Appliances\Appliances\obj\Debug\Appliances.АpplicationСhange.resources
+D:\УП Практика\Appliances\Appliances\obj\Debug\Appliances.csproj.GenerateResource.cache
+D:\УП Практика\Appliances\Appliances\obj\Debug\Appliances.csproj.CoreCompileInputs.cache
+D:\УП Практика\Appliances\Appliances\obj\Debug\Appliances.exe
+D:\УП Практика\Appliances\Appliances\obj\Debug\Appliances.pdb
+E:\УП Практика\Appliances\Appliances\obj\Debug\Appliances.UpdateOper.resources
+C:\Users\429196-9\Downloads\Appliances\Appliances\bin\Debug\Appliances.exe.config
+C:\Users\429196-9\Downloads\Appliances\Appliances\bin\Debug\Appliances.exe
+C:\Users\429196-9\Downloads\Appliances\Appliances\bin\Debug\Appliances.pdb
+C:\Users\429196-9\Downloads\Appliances\Appliances\obj\Debug\Appliances.csproj.AssemblyReference.cache
+C:\Users\429196-9\Downloads\Appliances\Appliances\obj\Debug\Appliances.AddOper.resources
+C:\Users\429196-9\Downloads\Appliances\Appliances\obj\Debug\Appliances.Authorization.resources
+C:\Users\429196-9\Downloads\Appliances\Appliances\obj\Debug\Appliances.Customer.resources
+C:\Users\429196-9\Downloads\Appliances\Appliances\obj\Debug\Appliances.Master.resources
+C:\Users\429196-9\Downloads\Appliances\Appliances\obj\Debug\Appliances.Operator.resources
+C:\Users\429196-9\Downloads\Appliances\Appliances\obj\Debug\Appliances.Order.resources
+C:\Users\429196-9\Downloads\Appliances\Appliances\obj\Debug\Appliances.Properties.Resources.resources
+C:\Users\429196-9\Downloads\Appliances\Appliances\obj\Debug\Appliances.UpdateOper.resources
+C:\Users\429196-9\Downloads\Appliances\Appliances\obj\Debug\Appliances.АpplicationAdd.resources
+C:\Users\429196-9\Downloads\Appliances\Appliances\obj\Debug\Appliances.АpplicationСhange.resources
+C:\Users\429196-9\Downloads\Appliances\Appliances\obj\Debug\Appliances.csproj.GenerateResource.cache
+C:\Users\429196-9\Downloads\Appliances\Appliances\obj\Debug\Appliances.csproj.CoreCompileInputs.cache
+C:\Users\429196-9\Downloads\Appliances\Appliances\obj\Debug\Appliances.exe
+C:\Users\429196-9\Downloads\Appliances\Appliances\obj\Debug\Appliances.pdb
+H:\УП\Appliances\Appliances\obj\Debug\Appliances.csproj.AssemblyReference.cache
+H:\УП\Appliances\Appliances\obj\Debug\Appliances.AddOper.resources
+H:\УП\Appliances\Appliances\obj\Debug\Appliances.Authorization.resources
+H:\УП\Appliances\Appliances\obj\Debug\Appliances.Customer.resources
+H:\УП\Appliances\Appliances\obj\Debug\Appliances.Master.resources
+H:\УП\Appliances\Appliances\obj\Debug\Appliances.Operator.resources
+H:\УП\Appliances\Appliances\obj\Debug\Appliances.Order.resources
+H:\УП\Appliances\Appliances\obj\Debug\Appliances.Properties.Resources.resources
+H:\УП\Appliances\Appliances\obj\Debug\Appliances.UpdateOper.resources
+H:\УП\Appliances\Appliances\obj\Debug\Appliances.АpplicationAdd.resources
+H:\УП\Appliances\Appliances\obj\Debug\Appliances.АpplicationСhange.resources
+H:\УП\Appliances\Appliances\obj\Debug\Appliances.csproj.GenerateResource.cache
+H:\УП\Appliances\Appliances\obj\Debug\Appliances.csproj.CoreCompileInputs.cache
+H:\УП\Appliances\Appliances\obj\Debug\Appliances.exe
+H:\УП\Appliances\Appliances\obj\Debug\Appliances.pdb
+H:\УП\Appliances\Appliances\bin\Debug\Appliances.exe.config
+H:\УП\Appliances\Appliances\bin\Debug\Appliances.exe
+H:\УП\Appliances\Appliances\bin\Debug\Appliances.pdb
+C:\Users\Andrey\Desktop\колледж\4 КУРС\Appliances\Appliances\obj\Debug\Appliances.csproj.AssemblyReference.cache
+C:\Users\Andrey\Desktop\колледж\4 КУРС\Appliances\Appliances\obj\Debug\Appliances.exe
+C:\Users\Andrey\Desktop\колледж\4 КУРС\Appliances\Appliances\obj\Debug\Appliances.pdb
+C:\Users\Andrey\Desktop\колледж\4 КУРС\Appliances\Appliances\bin\Debug\Appliances.exe.config
+C:\Users\Andrey\Desktop\колледж\4 КУРС\Appliances\Appliances\bin\Debug\Appliances.exe
+C:\Users\Andrey\Desktop\колледж\4 КУРС\Appliances\Appliances\bin\Debug\Appliances.pdb
+C:\Users\Andrey\Desktop\колледж\4 КУРС\Appliances\Appliances\obj\Debug\Appliances.AddOper.resources
+C:\Users\Andrey\Desktop\колледж\4 КУРС\Appliances\Appliances\obj\Debug\Appliances.Master.resources
+C:\Users\Andrey\Desktop\колледж\4 КУРС\Appliances\Appliances\obj\Debug\Appliances.Order.resources
+C:\Users\Andrey\Desktop\колледж\4 КУРС\Appliances\Appliances\obj\Debug\Appliances.Properties.Resources.resources
+C:\Users\Andrey\Desktop\колледж\4 КУРС\Appliances\Appliances\obj\Debug\Appliances.UpdateOper.resources
+C:\Users\Andrey\Desktop\колледж\4 КУРС\Appliances\Appliances\obj\Debug\Appliances.АpplicationAdd.resources
+C:\Users\Andrey\Desktop\колледж\4 КУРС\Appliances\Appliances\obj\Debug\Appliances.АpplicationСhange.resources
+C:\Users\Andrey\Desktop\колледж\4 КУРС\Appliances\Appliances\obj\Debug\Appliances.csproj.GenerateResource.cache
+C:\Users\Andrey\Desktop\колледж\4 КУРС\Appliances\Appliances\obj\Debug\Appliances.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\колледж\4 КУРС\Appliances\Appliances\obj\Debug\Appliances.Authorization.resources
+C:\Users\Andrey\Desktop\колледж\4 КУРС\Appliances\Appliances\obj\Debug\Appliances.Customer.resources
+C:\Users\Andrey\Desktop\колледж\4 КУРС\Appliances\Appliances\obj\Debug\Appliances.Operator.resources
+C:\Users\429191-27\Desktop\Appliances\Appliances\Appliances\bin\Debug\Appliances.exe.config
+C:\Users\429191-27\Desktop\Appliances\Appliances\Appliances\bin\Debug\Appliances.exe
+C:\Users\429191-27\Desktop\Appliances\Appliances\Appliances\bin\Debug\Appliances.pdb
+C:\Users\429191-27\Desktop\Appliances\Appliances\Appliances\obj\Debug\Appliances.csproj.AssemblyReference.cache
+C:\Users\429191-27\Desktop\Appliances\Appliances\Appliances\obj\Debug\Appliances.AddOper.resources
+C:\Users\429191-27\Desktop\Appliances\Appliances\Appliances\obj\Debug\Appliances.Authorization.resources
+C:\Users\429191-27\Desktop\Appliances\Appliances\Appliances\obj\Debug\Appliances.Customer.resources
+C:\Users\429191-27\Desktop\Appliances\Appliances\Appliances\obj\Debug\Appliances.Master.resources
+C:\Users\429191-27\Desktop\Appliances\Appliances\Appliances\obj\Debug\Appliances.Operator.resources
+C:\Users\429191-27\Desktop\Appliances\Appliances\Appliances\obj\Debug\Appliances.Order.resources
+C:\Users\429191-27\Desktop\Appliances\Appliances\Appliances\obj\Debug\Appliances.Properties.Resources.resources
+C:\Users\429191-27\Desktop\Appliances\Appliances\Appliances\obj\Debug\Appliances.UpdateOper.resources
+C:\Users\429191-27\Desktop\Appliances\Appliances\Appliances\obj\Debug\Appliances.АpplicationAdd.resources
+C:\Users\429191-27\Desktop\Appliances\Appliances\Appliances\obj\Debug\Appliances.АpplicationСhange.resources
+C:\Users\429191-27\Desktop\Appliances\Appliances\Appliances\obj\Debug\Appliances.csproj.GenerateResource.cache
+C:\Users\429191-27\Desktop\Appliances\Appliances\Appliances\obj\Debug\Appliances.csproj.CoreCompileInputs.cache
+C:\Users\429191-27\Desktop\Appliances\Appliances\Appliances\obj\Debug\Appliances.exe
+C:\Users\429191-27\Desktop\Appliances\Appliances\Appliances\obj\Debug\Appliances.pdb
+C:\Users\Andrey\Desktop\колледж\4 КУРС\FactoryApp\Appliances\Appliances\Appliances\obj\Debug\Appliances.csproj.AssemblyReference.cache
+C:\Users\Andrey\Desktop\колледж\4 КУРС\FactoryApp\Appliances\Appliances\Appliances\obj\Debug\Appliances.exe
+C:\Users\Andrey\Desktop\колледж\4 КУРС\FactoryApp\Appliances\Appliances\Appliances\obj\Debug\Appliances.pdb
+C:\Users\Andrey\Desktop\колледж\4 КУРС\FactoryApp\Appliances\Appliances\Appliances\bin\Debug\Appliances.exe.config
+C:\Users\Andrey\Desktop\колледж\4 КУРС\FactoryApp\Appliances\Appliances\Appliances\bin\Debug\Appliances.exe
+C:\Users\Andrey\Desktop\колледж\4 КУРС\FactoryApp\Appliances\Appliances\Appliances\bin\Debug\Appliances.pdb
+C:\Users\Andrey\Desktop\колледж\4 КУРС\FactoryApp\Appliances\Appliances\Appliances\obj\Debug\Appliances.AddOper.resources
+C:\Users\Andrey\Desktop\колледж\4 КУРС\FactoryApp\Appliances\Appliances\Appliances\obj\Debug\Appliances.Authorization.resources
+C:\Users\Andrey\Desktop\колледж\4 КУРС\FactoryApp\Appliances\Appliances\Appliances\obj\Debug\Appliances.Customer.resources
+C:\Users\Andrey\Desktop\колледж\4 КУРС\FactoryApp\Appliances\Appliances\Appliances\obj\Debug\Appliances.Master.resources
+C:\Users\Andrey\Desktop\колледж\4 КУРС\FactoryApp\Appliances\Appliances\Appliances\obj\Debug\Appliances.Operator.resources
+C:\Users\Andrey\Desktop\колледж\4 КУРС\FactoryApp\Appliances\Appliances\Appliances\obj\Debug\Appliances.Order.resources
+C:\Users\Andrey\Desktop\колледж\4 КУРС\FactoryApp\Appliances\Appliances\Appliances\obj\Debug\Appliances.Properties.Resources.resources
+C:\Users\Andrey\Desktop\колледж\4 КУРС\FactoryApp\Appliances\Appliances\Appliances\obj\Debug\Appliances.UpdateOper.resources
+C:\Users\Andrey\Desktop\колледж\4 КУРС\FactoryApp\Appliances\Appliances\Appliances\obj\Debug\Appliances.АpplicationAdd.resources
+C:\Users\Andrey\Desktop\колледж\4 КУРС\FactoryApp\Appliances\Appliances\Appliances\obj\Debug\Appliances.АpplicationСhange.resources
+C:\Users\Andrey\Desktop\колледж\4 КУРС\FactoryApp\Appliances\Appliances\Appliances\obj\Debug\Appliances.csproj.GenerateResource.cache
+C:\Users\Andrey\Desktop\колледж\4 КУРС\FactoryApp\Appliances\Appliances\Appliances\obj\Debug\Appliances.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\колледж\4 КУРС\FactoryApp\Appliances\Appliances\Appliances\bin\Debug\QRCoder.dll
+C:\Users\Andrey\Desktop\колледж\4 КУРС\FactoryApp\Appliances\Appliances\Appliances\obj\Debug\Appliances.csproj.Up2Date
+C:\Users\Andrey\Desktop\колледж\4 КУРС\FactoryApp\Appliances\Appliances\Appliances\obj\Debug\Appliances.Manager.resources
+C:\Users\Andrey\Desktop\колледж\4 КУРС\FactoryApp\Appliances\bin\Debug\Appliances.exe.config
+C:\Users\Andrey\Desktop\колледж\4 КУРС\FactoryApp\Appliances\bin\Debug\Appliances.exe
+C:\Users\Andrey\Desktop\колледж\4 КУРС\FactoryApp\Appliances\bin\Debug\Appliances.pdb
+C:\Users\Andrey\Desktop\колледж\4 КУРС\FactoryApp\Appliances\bin\Debug\QRCoder.dll
+C:\Users\Andrey\Desktop\колледж\4 КУРС\FactoryApp\Appliances\obj\Debug\Appliances.csproj.AssemblyReference.cache
+C:\Users\Andrey\Desktop\колледж\4 КУРС\FactoryApp\Appliances\obj\Debug\Appliances.AddOper.resources
+C:\Users\Andrey\Desktop\колледж\4 КУРС\FactoryApp\Appliances\obj\Debug\Appliances.Authorization.resources
+C:\Users\Andrey\Desktop\колледж\4 КУРС\FactoryApp\Appliances\obj\Debug\Appliances.Customer.resources
+C:\Users\Andrey\Desktop\колледж\4 КУРС\FactoryApp\Appliances\obj\Debug\Appliances.Manager.resources
+C:\Users\Andrey\Desktop\колледж\4 КУРС\FactoryApp\Appliances\obj\Debug\Appliances.Master.resources
+C:\Users\Andrey\Desktop\колледж\4 КУРС\FactoryApp\Appliances\obj\Debug\Appliances.Operator.resources
+C:\Users\Andrey\Desktop\колледж\4 КУРС\FactoryApp\Appliances\obj\Debug\Appliances.Order.resources
+C:\Users\Andrey\Desktop\колледж\4 КУРС\FactoryApp\Appliances\obj\Debug\Appliances.Properties.Resources.resources
+C:\Users\Andrey\Desktop\колледж\4 КУРС\FactoryApp\Appliances\obj\Debug\Appliances.UpdateOper.resources
+C:\Users\Andrey\Desktop\колледж\4 КУРС\FactoryApp\Appliances\obj\Debug\Appliances.АpplicationAdd.resources
+C:\Users\Andrey\Desktop\колледж\4 КУРС\FactoryApp\Appliances\obj\Debug\Appliances.АpplicationСhange.resources
+C:\Users\Andrey\Desktop\колледж\4 КУРС\FactoryApp\Appliances\obj\Debug\Appliances.csproj.GenerateResource.cache
+C:\Users\Andrey\Desktop\колледж\4 КУРС\FactoryApp\Appliances\obj\Debug\Appliances.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\колледж\4 КУРС\FactoryApp\Appliances\obj\Debug\Appliances.csproj.Up2Date
+C:\Users\Andrey\Desktop\колледж\4 КУРС\FactoryApp\Appliances\obj\Debug\Appliances.exe
+C:\Users\Andrey\Desktop\колледж\4 КУРС\FactoryApp\Appliances\obj\Debug\Appliances.pdb
+C:\Users\429191-29\Desktop\FactoryApp\Appliances\bin\Debug\Appliances.exe.config
+C:\Users\429191-29\Desktop\FactoryApp\Appliances\bin\Debug\Appliances.exe
+C:\Users\429191-29\Desktop\FactoryApp\Appliances\bin\Debug\Appliances.pdb
+C:\Users\429191-29\Desktop\FactoryApp\Appliances\bin\Debug\QRCoder.dll
+C:\Users\429191-29\Desktop\FactoryApp\Appliances\obj\Debug\Appliances.csproj.AssemblyReference.cache
+C:\Users\429191-29\Desktop\FactoryApp\Appliances\obj\Debug\Appliances.AddOper.resources
+C:\Users\429191-29\Desktop\FactoryApp\Appliances\obj\Debug\Appliances.Authorization.resources
+C:\Users\429191-29\Desktop\FactoryApp\Appliances\obj\Debug\Appliances.Customer.resources
+C:\Users\429191-29\Desktop\FactoryApp\Appliances\obj\Debug\Appliances.Manager.resources
+C:\Users\429191-29\Desktop\FactoryApp\Appliances\obj\Debug\Appliances.Master.resources
+C:\Users\429191-29\Desktop\FactoryApp\Appliances\obj\Debug\Appliances.Operator.resources
+C:\Users\429191-29\Desktop\FactoryApp\Appliances\obj\Debug\Appliances.Order.resources
+C:\Users\429191-29\Desktop\FactoryApp\Appliances\obj\Debug\Appliances.Properties.Resources.resources
+C:\Users\429191-29\Desktop\FactoryApp\Appliances\obj\Debug\Appliances.UpdateOper.resources
+C:\Users\429191-29\Desktop\FactoryApp\Appliances\obj\Debug\Appliances.АpplicationAdd.resources
+C:\Users\429191-29\Desktop\FactoryApp\Appliances\obj\Debug\Appliances.АpplicationСhange.resources
+C:\Users\429191-29\Desktop\FactoryApp\Appliances\obj\Debug\Appliances.csproj.GenerateResource.cache
+C:\Users\429191-29\Desktop\FactoryApp\Appliances\obj\Debug\Appliances.csproj.CoreCompileInputs.cache
+C:\Users\429191-29\Desktop\FactoryApp\Appliances\obj\Debug\Appliances.csproj.Up2Date
+C:\Users\429191-29\Desktop\FactoryApp\Appliances\obj\Debug\Appliances.exe
+C:\Users\429191-29\Desktop\FactoryApp\Appliances\obj\Debug\Appliances.pdb
